@@ -1,0 +1,12 @@
+Faker
+python-dotenv
+onesecmail
+Pillow
+keras-ocr
+injector
+tensorflow
+random-username
+MailTm
+unidecode
+bs4
+psutil

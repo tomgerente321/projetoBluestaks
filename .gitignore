@@ -1,0 +1,8 @@
+src/vpn/config/*.ovpn
+config/screenshots/*.png
+photos/fem/*.jpg
+photos/fem/*.png
+photos/masc/*.jpg
+photos/masc/*.png
+users/*.txt
+__pycache__

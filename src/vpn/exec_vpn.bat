@@ -1,0 +1,2 @@
+set password=v5ssbf6ngs9d7XXmKJGcBSim6Cuaau2W
+echo %password%| "C:\Program Files\OpenVPN\bin\openvpn.exe" --pause-exit --config "C:\Users\%USERNAME%\Desktop\bot-insta-creator-bluestacks\src\vpn\config\%1" --auth-user-pass "C:\Users\%USERNAME%\Desktop\bot-insta-creator-bluestacks\config\routines\proton_vpn_login.txt" --allow-compression yes
